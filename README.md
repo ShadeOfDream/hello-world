@@ -13,9 +13,4 @@ objects HelloWorld
    }
 }
 //-------------------------------
-//Using Command Line
-//"javac -version" should be 1.8 or higher
-//Download sbt
-//-------------------------------
-//Output
-//Hello World!
+
